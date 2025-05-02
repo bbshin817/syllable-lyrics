@@ -1,5 +1,11 @@
 ﻿{
   "events": [   {
+    "tStartMs": 6873.3466,
+    "dDurationMs": 185,
+    "segs": [ {
+      "utf8": "限界"
+    } ]
+  }, {
     "tStartMs": 10147.9365079365,
     "dDurationMs": 460.063492063495,
     "segs": [ {
@@ -48,10 +54,10 @@
       "utf8": "以上の"
     } ]
   }, {
-    "tStartMs": 15619.5714285714,
-    "dDurationMs": 548.428571428571,
+    "tStartMs": 16169,
+    "dDurationMs": 213,
     "segs": [ {
-      "utf8": "もっとその"
+      "utf8": "先"
     } ]
   }, {
     "tStartMs": 16169,
@@ -330,12 +336,6 @@
       "utf8": "中"
     } ]
   }, {
-    "tStartMs": 49163.7261904762,
-    "dDurationMs": 93,
-    "segs": [ {
-      "utf8": " "
-    } ]
-  }, {
     "tStartMs": 49258.1746031746,
     "dDurationMs": 240.825396825392,
     "segs": [ {
@@ -432,34 +432,16 @@
       "utf8": "なく湧く"
     } ]
   }, {
-    "tStartMs": 64387.9444444444,
-    "dDurationMs": 166,
-    "segs": [ {
-      "utf8": " "
-    } ]
-  }, {
     "tStartMs": 64554.5634920635,
     "dDurationMs": 269,
     "segs": [ {
       "utf8": "Task"
     } ]
   }, {
-    "tStartMs": 64824.5634920635,
-    "dDurationMs": 94,
-    "segs": [ {
-      "utf8": " "
-    } ]
-  }, {
     "tStartMs": 64919.246031746,
     "dDurationMs": 269,
     "segs": [ {
       "utf8": "Task"
-    } ]
-  }, {
-    "tStartMs": 65189.246031746,
-    "dDurationMs": 78,
-    "segs": [ {
-      "utf8": " "
     } ]
   }, {
     "tStartMs": 65268,
@@ -492,22 +474,10 @@
       "utf8": "Tick"
     } ]
   }, {
-    "tStartMs": 68527,
-    "dDurationMs": 86,
-    "segs": [ {
-      "utf8": " "
-    } ]
-  }, {
     "tStartMs": 68613.5912698413,
     "dDurationMs": 348,
     "segs": [ {
       "utf8": "Tick"
-    } ]
-  }, {
-    "tStartMs": 68978,
-    "dDurationMs": 62,
-    "segs": [ {
-      "utf8": " "
     } ]
   }, {
     "tStartMs": 69041,
@@ -777,7 +747,7 @@
     "tStartMs": 101578,
     "dDurationMs": 146,
     "segs": [ {
-      "utf8": "い "
+      "utf8": "い"
     } ]
   }, {
     "tStartMs": 101725,
@@ -1140,12 +1110,6 @@
       "utf8": "は"
     } ]
   }, {
-    "tStartMs": 152176,
-    "dDurationMs": 414,
-    "segs": [ {
-      "utf8": " "
-    } ]
-  }, {
     "tStartMs": 152591.427374603,
     "dDurationMs": 680,
     "segs": [ {
@@ -1282,12 +1246,6 @@
     "dDurationMs": 833,
     "segs": [ {
       "utf8": "中"
-    } ]
-  }, {
-    "tStartMs": 167280,
-    "dDurationMs": 93,
-    "segs": [ {
-      "utf8": " "
     } ]
   }, {
     "tStartMs": 167374,
