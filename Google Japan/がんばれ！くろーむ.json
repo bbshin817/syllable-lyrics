@@ -1,0 +1,1107 @@
+﻿{
+  "events": [   {
+    "tStartMs": 2563.49206349206,
+    "dDurationMs": 101.507936507936,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 2666,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 2877,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 3016,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 3119,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 3330,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 3469,
+    "dDurationMs": 492,
+    "segs": [ {
+      "utf8": "<br>朝から"
+    } ]
+  }, {
+    "tStartMs": 3962,
+    "dDurationMs": 449,
+    "segs": [ {
+      "utf8": "晩まで<space>"
+    } ]
+  }, {
+    "tStartMs": 4412,
+    "dDurationMs": 508,
+    "segs": [ {
+      "utf8": "がんばっ"
+    } ]
+  }, {
+    "tStartMs": 4921,
+    "dDurationMs": 462,
+    "segs": [ {
+      "utf8": "てる"
+    } ]
+  }, {
+    "tStartMs": 5384,
+    "dDurationMs": 1908,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 7293,
+    "dDurationMs": 442.61507936508,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 8215.11243386243,
+    "dDurationMs": 463,
+    "segs": [ {
+      "utf8": "<br>赤<space>"
+    } ]
+  }, {
+    "tStartMs": 8679.11243386243,
+    "dDurationMs": 480.887566137566,
+    "segs": [ {
+      "utf8": "青<space>"
+    } ]
+  }, {
+    "tStartMs": 9161,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "黄色<space>"
+    } ]
+  }, {
+    "tStartMs": 9858.90476190476,
+    "dDurationMs": 813.095238095237,
+    "segs": [ {
+      "utf8": "緑色"
+    } ]
+  }, {
+    "tStartMs": 10673,
+    "dDurationMs": 262,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 10936,
+    "dDurationMs": 528,
+    "segs": [ {
+      "utf8": "ボディ<space>"
+    } ]
+  }, {
+    "tStartMs": 11752.6455026455,
+    "dDurationMs": 217,
+    "segs": [ {
+      "utf8": "<br>な"
+    } ]
+  }, {
+    "tStartMs": 11970.6455026455,
+    "dDurationMs": 481,
+    "segs": [ {
+      "utf8": "でて欲"
+    } ]
+  }, {
+    "tStartMs": 12452.6455026455,
+    "dDurationMs": 236,
+    "segs": [ {
+      "utf8": "しい<space>"
+    } ]
+  }, {
+    "tStartMs": 12689.6455026455,
+    "dDurationMs": 681.354497354498,
+    "segs": [ {
+      "utf8": "かまってほ"
+    } ]
+  }, {
+    "tStartMs": 13372,
+    "dDurationMs": 257.298941798943,
+    "segs": [ {
+      "utf8": "しい"
+    } ]
+  }, {
+    "tStartMs": 13630.2989417989,
+    "dDurationMs": 672,
+    "segs": [ {
+      "utf8": "<br>奇跡の"
+    } ]
+  }, {
+    "tStartMs": 14303.2989417989,
+    "dDurationMs": 943.701058201057,
+    "segs": [ {
+      "utf8": "まんまる"
+    } ]
+  }, {
+    "tStartMs": 15662.5740740741,
+    "dDurationMs": 428,
+    "segs": [ {
+      "utf8": "<br>ちょんちょん"
+    } ]
+  }, {
+    "tStartMs": 16091.5740740741,
+    "dDurationMs": 1044.66931216932,
+    "segs": [ {
+      "utf8": "生えてる"
+    } ]
+  }, {
+    "tStartMs": 17385.9126984127,
+    "dDurationMs": 661,
+    "segs": [ {
+      "utf8": "<br>細い"
+    } ]
+  }, {
+    "tStartMs": 18047.9126984127,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "手足"
+    } ]
+  }, {
+    "tStartMs": 18682.9126984127,
+    "dDurationMs": 316.0873015873,
+    "segs": [ {
+      "utf8": "で"
+    } ]
+  }, {
+    "tStartMs": 19255.9523809524,
+    "dDurationMs": 355,
+    "segs": [ {
+      "utf8": "<br>君の"
+    } ]
+  }, {
+    "tStartMs": 19611.9523809524,
+    "dDurationMs": 965.047619047622,
+    "segs": [ {
+      "utf8": "お手伝い"
+    } ]
+  }, {
+    "tStartMs": 20578,
+    "dDurationMs": 184.23544973545,
+    "segs": [ {
+      "utf8": "を"
+    } ]
+  }, {
+    "tStartMs": 20763.2354497354,
+    "dDurationMs": 666.989417989418,
+    "segs": [ {
+      "utf8": "する<space>"
+    } ]
+  }, {
+    "tStartMs": 21771.6600529101,
+    "dDurationMs": 760.582010582009,
+    "segs": [ {
+      "utf8": "(よいしょ)"
+    } ]
+  }, {
+    "tStartMs": 23150,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "<br>く"
+    } ]
+  }, {
+    "tStartMs": 23253,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 23464,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 23603,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 23706,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 23917,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 24056,
+    "dDurationMs": 1046,
+    "segs": [ {
+      "utf8": "<br>年がら年中<space>"
+    } ]
+  }, {
+    "tStartMs": 25103,
+    "dDurationMs": 1155,
+    "segs": [ {
+      "utf8": "頑張ってるの<space>"
+    } ]
+  }, {
+    "tStartMs": 26259,
+    "dDurationMs": 592,
+    "segs": [ {
+      "utf8": "(がんばる)"
+    } ]
+  }, {
+    "tStartMs": 27008.6415343915,
+    "dDurationMs": 384,
+    "segs": [ {
+      "utf8": "<br>セーフ<space>"
+    } ]
+  }, {
+    "tStartMs": 27393.6415343915,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "セーフ<space>"
+    } ]
+  }, {
+    "tStartMs": 27928.6415343915,
+    "dDurationMs": 891,
+    "segs": [ {
+      "utf8": "300万件"
+    } ]
+  }, {
+    "tStartMs": 28820.6415343915,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "<br>危ないサイト"
+    } ]
+  }, {
+    "tStartMs": 29620.6415343915,
+    "dDurationMs": 407,
+    "segs": [ {
+      "utf8": "ブロック<space>"
+    } ]
+  }, {
+    "tStartMs": 30028.6415343915,
+    "dDurationMs": 475.358465608464,
+    "segs": [ {
+      "utf8": "(ぶろっく)"
+    } ]
+  }, {
+    "tStartMs": 30781.25,
+    "dDurationMs": 668,
+    "segs": [ {
+      "utf8": "<br>大好き"
+    } ]
+  }, {
+    "tStartMs": 31450.25,
+    "dDurationMs": 183.75,
+    "segs": [ {
+      "utf8": "な<space>"
+    } ]
+  }, {
+    "tStartMs": 31635,
+    "dDurationMs": 678,
+    "segs": [ {
+      "utf8": "ユーザーさん"
+    } ]
+  }, {
+    "tStartMs": 32314,
+    "dDurationMs": 324,
+    "segs": [ {
+      "utf8": "を"
+    } ]
+  }, {
+    "tStartMs": 32639,
+    "dDurationMs": 705,
+    "segs": [ {
+      "utf8": "<br>守る"
+    } ]
+  }, {
+    "tStartMs": 33345,
+    "dDurationMs": 600.89682539682,
+    "segs": [ {
+      "utf8": "ため"
+    } ]
+  }, {
+    "tStartMs": 33946.8968253968,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "に"
+    } ]
+  }, {
+    "tStartMs": 36802.3584656085,
+    "dDurationMs": 468.641534391536,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 37272,
+    "dDurationMs": 403,
+    "segs": [ {
+      "utf8": "<br>くろーむ<space>"
+    } ]
+  }, {
+    "tStartMs": 37676,
+    "dDurationMs": 439,
+    "segs": [ {
+      "utf8": "しゃかりき"
+    } ]
+  }, {
+    "tStartMs": 38116,
+    "dDurationMs": 991,
+    "segs": [ {
+      "utf8": "<br>がんばってる"
+    } ]
+  }, {
+    "tStartMs": 39108,
+    "dDurationMs": 1395.47222222222,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 41055.7208994709,
+    "dDurationMs": 515.873015873018,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 44756.9444444444,
+    "dDurationMs": 1382,
+    "segs": [ {
+      "utf8": "<br>褒められちゃって"
+    } ]
+  }, {
+    "tStartMs": 46422.7843915344,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "<br>青いとこ"
+    } ]
+  }, {
+    "tStartMs": 47057.7843915344,
+    "dDurationMs": 957,
+    "segs": [ {
+      "utf8": "キラキラ"
+    } ]
+  }, {
+    "tStartMs": 48311.8386243386,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "<br>おはよう"
+    } ]
+  }, {
+    "tStartMs": 48972.8386243386,
+    "dDurationMs": 244.257936507936,
+    "segs": [ {
+      "utf8": "から"
+    } ]
+  }, {
+    "tStartMs": 49218.0965608466,
+    "dDurationMs": 844,
+    "segs": [ {
+      "utf8": "<space>おやすみ"
+    } ]
+  }, {
+    "tStartMs": 50063.5701058201,
+    "dDurationMs": 416.429894179892,
+    "segs": [ {
+      "utf8": "まで"
+    } ]
+  }, {
+    "tStartMs": 50481,
+    "dDurationMs": 492,
+    "segs": [ {
+      "utf8": "<br>ずっと<space>"
+    } ]
+  }, {
+    "tStartMs": 50974,
+    "dDurationMs": 263,
+    "segs": [ {
+      "utf8": "スペ"
+    } ]
+  }, {
+    "tStartMs": 51238,
+    "dDurationMs": 509,
+    "segs": [ {
+      "utf8": "シャル"
+    } ]
+  }, {
+    "tStartMs": 52206.4285714286,
+    "dDurationMs": 483,
+    "segs": [ {
+      "utf8": "<br>ちょんちょん"
+    } ]
+  }, {
+    "tStartMs": 52690.4285714286,
+    "dDurationMs": 870.571428571435,
+    "segs": [ {
+      "utf8": "生えてる"
+    } ]
+  }, {
+    "tStartMs": 53817,
+    "dDurationMs": 826,
+    "segs": [ {
+      "utf8": "<br>頭の"
+    } ]
+  }, {
+    "tStartMs": 54644,
+    "dDurationMs": 833.208994708992,
+    "segs": [ {
+      "utf8": "二本は<space>"
+    } ]
+  }, {
+    "tStartMs": 55766.3690476191,
+    "dDurationMs": 231,
+    "segs": [ {
+      "utf8": "角、"
+    } ]
+  }, {
+    "tStartMs": 55998.3690476191,
+    "dDurationMs": 519.630952380947,
+    "segs": [ {
+      "utf8": "触覚"
+    } ]
+  }, {
+    "tStartMs": 56519,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "<br>諸説あり<space>"
+    } ]
+  }, {
+    "tStartMs": 58334.9867724868,
+    "dDurationMs": 767.195767195764,
+    "segs": [ {
+      "utf8": "どっち？"
+    } ]
+  }, {
+    "tStartMs": 59665,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "<br>く"
+    } ]
+  }, {
+    "tStartMs": 59768,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 59979,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 60118,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 60221,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 60432,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 60571,
+    "dDurationMs": 707,
+    "segs": [ {
+      "utf8": "<br>きょうだいが<space>"
+    } ]
+  }, {
+    "tStartMs": 61279,
+    "dDurationMs": 764,
+    "segs": [ {
+      "utf8": "数十億"
+    } ]
+  }, {
+    "tStartMs": 62044,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "いるの<space>"
+    } ]
+  }, {
+    "tStartMs": 62778,
+    "dDurationMs": 740.518518518518,
+    "segs": [ {
+      "utf8": "(いっぱい)"
+    } ]
+  }, {
+    "tStartMs": 63519.5185185185,
+    "dDurationMs": 932.481481481482,
+    "segs": [ {
+      "utf8": "<br>ワールドワイド<space>"
+    } ]
+  }, {
+    "tStartMs": 64453,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "どこでも安全"
+    } ]
+  }, {
+    "tStartMs": 65293,
+    "dDurationMs": 1195,
+    "segs": [ {
+      "utf8": "<br>をとどけるよ<space>"
+    } ]
+  }, {
+    "tStartMs": 66489,
+    "dDurationMs": 554,
+    "segs": [ {
+      "utf8": "(あんぜん)"
+    } ]
+  }, {
+    "tStartMs": 67194.1137566138,
+    "dDurationMs": 502,
+    "segs": [ {
+      "utf8": "<br>スマホ<space>"
+    } ]
+  }, {
+    "tStartMs": 67697.1137566138,
+    "dDurationMs": 514.886243386238,
+    "segs": [ {
+      "utf8": "パソコン<space>"
+    } ]
+  }, {
+    "tStartMs": 68213,
+    "dDurationMs": 843,
+    "segs": [ {
+      "utf8": "つかうみんなを"
+    } ]
+  }, {
+    "tStartMs": 69057,
+    "dDurationMs": 1368.8082010582,
+    "segs": [ {
+      "utf8": "<br>まもるため"
+    } ]
+  }, {
+    "tStartMs": 70426.8082010582,
+    "dDurationMs": 2128.1917989418,
+    "segs": [ {
+      "utf8": "に"
+    } ]
+  }, {
+    "tStartMs": 73335.8134920635,
+    "dDurationMs": 423.280423280419,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 73760.0939153439,
+    "dDurationMs": 392,
+    "segs": [ {
+      "utf8": "<br>くろーむ<space>"
+    } ]
+  }, {
+    "tStartMs": 74153.0939153439,
+    "dDurationMs": 541.666666666672,
+    "segs": [ {
+      "utf8": "ひたむき"
+    } ]
+  }, {
+    "tStartMs": 74695.7605820106,
+    "dDurationMs": 898.239417989418,
+    "segs": [ {
+      "utf8": "<br>がんばってる"
+    } ]
+  }, {
+    "tStartMs": 75595,
+    "dDurationMs": 1497.42724867725,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 77525.6283068783,
+    "dDurationMs": 442,
+    "segs": [ {
+      "utf8": "<br>君が<space>"
+    } ]
+  }, {
+    "tStartMs": 77968.6283068783,
+    "dDurationMs": 515.371693121691,
+    "segs": [ {
+      "utf8": "スマホを"
+    } ]
+  }, {
+    "tStartMs": 78485,
+    "dDurationMs": 707.29497354498,
+    "segs": [ {
+      "utf8": "開くとき"
+    } ]
+  }, {
+    "tStartMs": 79322.9166666667,
+    "dDurationMs": 475.083333333328,
+    "segs": [ {
+      "utf8": "<br>くろーむは<space>"
+    } ]
+  }, {
+    "tStartMs": 79799,
+    "dDurationMs": 706,
+    "segs": [ {
+      "utf8": "そこにいる<space>"
+    } ]
+  }, {
+    "tStartMs": 80506,
+    "dDurationMs": 548.894179894181,
+    "segs": [ {
+      "utf8": "(おかえり)"
+    } ]
+  }, {
+    "tStartMs": 81288.0291005291,
+    "dDurationMs": 416,
+    "segs": [ {
+      "utf8": "<br>君が<space>"
+    } ]
+  }, {
+    "tStartMs": 81705.0291005291,
+    "dDurationMs": 481.970899470893,
+    "segs": [ {
+      "utf8": "パソコンを<space>"
+    } ]
+  }, {
+    "tStartMs": 82188,
+    "dDurationMs": 773,
+    "segs": [ {
+      "utf8": "開くとき"
+    } ]
+  }, {
+    "tStartMs": 83053.0753968254,
+    "dDurationMs": 555,
+    "segs": [ {
+      "utf8": "<br>くろーむは<space>"
+    } ]
+  }, {
+    "tStartMs": 83609.0753968254,
+    "dDurationMs": 651,
+    "segs": [ {
+      "utf8": "そこにいる<space>"
+    } ]
+  }, {
+    "tStartMs": 84261.0753968254,
+    "dDurationMs": 680.826719576726,
+    "segs": [ {
+      "utf8": "(大丈夫?)"
+    } ]
+  }, {
+    "tStartMs": 85071.0978835979,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "<br>デジタルな<space>"
+    } ]
+  }, {
+    "tStartMs": 85673.0978835979,
+    "dDurationMs": 528.902116402111,
+    "segs": [ {
+      "utf8": "存在?"
+    } ]
+  }, {
+    "tStartMs": 86603.3333333333,
+    "dDurationMs": 324,
+    "segs": [ {
+      "utf8": "<br>でも<space>"
+    } ]
+  }, {
+    "tStartMs": 86928.3333333333,
+    "dDurationMs": 620.666666666672,
+    "segs": [ {
+      "utf8": "お風呂は入"
+    } ]
+  }, {
+    "tStartMs": 87550,
+    "dDurationMs": 257.539682539689,
+    "segs": [ {
+      "utf8": "り"
+    } ]
+  }, {
+    "tStartMs": 87808.5396825397,
+    "dDurationMs": 415.666666666672,
+    "segs": [ {
+      "utf8": "たい<space>"
+    } ]
+  }, {
+    "tStartMs": 88025,
+    "dDurationMs": 772,
+    "segs": [ {
+      "utf8": "(みずにつよい?)"
+    } ]
+  }, {
+    "tStartMs": 88798,
+    "dDurationMs": 1564,
+    "segs": [ {
+      "utf8": "<br>風船より<space>軽いからだで"
+    } ]
+  }, {
+    "tStartMs": 90472.8835978836,
+    "dDurationMs": 1316,
+    "segs": [ {
+      "utf8": "<br>フワフワ<space>お散歩しよう"
+    } ]
+  }, {
+    "tStartMs": 92493,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "<br>く"
+    } ]
+  }, {
+    "tStartMs": 92596,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 92807,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 92946,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 93049,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 93260,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 93399,
+    "dDurationMs": 492,
+    "segs": [ {
+      "utf8": "<br>朝から"
+    } ]
+  }, {
+    "tStartMs": 93892,
+    "dDurationMs": 449,
+    "segs": [ {
+      "utf8": "晩まで<space>"
+    } ]
+  }, {
+    "tStartMs": 94342,
+    "dDurationMs": 508,
+    "segs": [ {
+      "utf8": "がんばっ"
+    } ]
+  }, {
+    "tStartMs": 94851,
+    "dDurationMs": 462,
+    "segs": [ {
+      "utf8": "てる"
+    } ]
+  }, {
+    "tStartMs": 95314,
+    "dDurationMs": 1908,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 97871.0740740741,
+    "dDurationMs": 788,
+    "segs": [ {
+      "utf8": "<br>がんばる<space>"
+    } ]
+  }, {
+    "tStartMs": 98857.3571428571,
+    "dDurationMs": 939,
+    "segs": [ {
+      "utf8": "がんばるよ"
+    } ]
+  }, {
+    "tStartMs": 99979,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "<br>く"
+    } ]
+  }, {
+    "tStartMs": 100082,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 100293,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 100432,
+    "dDurationMs": 102,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 100535,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 100746,
+    "dDurationMs": 138,
+    "segs": [ {
+      "utf8": "む<space>"
+    } ]
+  }, {
+    "tStartMs": 100885,
+    "dDurationMs": 1017,
+    "segs": [ {
+      "utf8": "<br>サイトをみるとき<space>"
+    } ]
+  }, {
+    "tStartMs": 101903,
+    "dDurationMs": 1162,
+    "segs": [ {
+      "utf8": "たのもしいぞ<space>"
+    } ]
+  }, {
+    "tStartMs": 103066,
+    "dDurationMs": 515,
+    "segs": [ {
+      "utf8": "(えっへん)"
+    } ]
+  }, {
+    "tStartMs": 103705.357142857,
+    "dDurationMs": 977,
+    "segs": [ {
+      "utf8": "<br>がっちり<space>ばっちり<space>"
+    } ]
+  }, {
+    "tStartMs": 104683.357142857,
+    "dDurationMs": 929.642857142855,
+    "segs": [ {
+      "utf8": "防御力の"
+    } ]
+  }, {
+    "tStartMs": 105614,
+    "dDurationMs": 685,
+    "segs": [ {
+      "utf8": "<br>レベルup!<space>"
+    } ]
+  }, {
+    "tStartMs": 106300,
+    "dDurationMs": 495.634920634926,
+    "segs": [ {
+      "utf8": "れつごー<space>"
+    } ]
+  }, {
+    "tStartMs": 106796.634920635,
+    "dDurationMs": 493,
+    "segs": [ {
+      "utf8": "(れつごー)"
+    } ]
+  }, {
+    "tStartMs": 107539.682539683,
+    "dDurationMs": 178,
+    "segs": [ {
+      "utf8": "<br>セーフ"
+    } ]
+  }, {
+    "tStartMs": 107718.682539683,
+    "dDurationMs": 409,
+    "segs": [ {
+      "utf8": "ブラウジング"
+    } ]
+  }, {
+    "tStartMs": 108128.682539683,
+    "dDurationMs": 184.317460317456,
+    "segs": [ {
+      "utf8": "保護"
+    } ]
+  }, {
+    "tStartMs": 108314,
+    "dDurationMs": 277.269841269852,
+    "segs": [ {
+      "utf8": "強化"
+    } ]
+  }, {
+    "tStartMs": 108592.26984127,
+    "dDurationMs": 141.730158730148,
+    "segs": [ {
+      "utf8": "機能"
+    } ]
+  }, {
+    "tStartMs": 108735,
+    "dDurationMs": 103,
+    "segs": [ {
+      "utf8": "で"
+    } ]
+  }, {
+    "tStartMs": 108839,
+    "dDurationMs": 556,
+    "segs": [ {
+      "utf8": "<br>きみを<space>"
+    } ]
+  }, {
+    "tStartMs": 109396,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "まもるため"
+    } ]
+  }, {
+    "tStartMs": 110750,
+    "dDurationMs": 1897,
+    "segs": [ {
+      "utf8": "に"
+    } ]
+  }, {
+    "tStartMs": 113617.724867725,
+    "dDurationMs": 402,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 114020.724867725,
+    "dDurationMs": 475.275132275128,
+    "segs": [ {
+      "utf8": "<br>くろーむ<space>"
+    } ]
+  }, {
+    "tStartMs": 114497,
+    "dDurationMs": 436,
+    "segs": [ {
+      "utf8": "てっぺき<space>"
+    } ]
+  }, {
+    "tStartMs": 114934,
+    "dDurationMs": 976,
+    "segs": [ {
+      "utf8": "がんばってる"
+    } ]
+  }, {
+    "tStartMs": 115911,
+    "dDurationMs": 1374.87962962964,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 117812.5,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "<br>だいすきな<space>"
+    } ]
+  }, {
+    "tStartMs": 118703.5,
+    "dDurationMs": 831.5,
+    "segs": [ {
+      "utf8": "ユーザーさんを"
+    } ]
+  }, {
+    "tStartMs": 119536,
+    "dDurationMs": 1643,
+    "segs": [ {
+      "utf8": "<br>まもるため"
+    } ]
+  }, {
+    "tStartMs": 121180,
+    "dDurationMs": 2418,
+    "segs": [ {
+      "utf8": "に"
+    } ]
+  }, {
+    "tStartMs": 125114.914021164,
+    "dDurationMs": 396.825396825399,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }, {
+    "tStartMs": 125512.739417989,
+    "dDurationMs": 460.260582010582,
+    "segs": [ {
+      "utf8": "<br>くろーむ<space>"
+    } ]
+  }, {
+    "tStartMs": 125974,
+    "dDurationMs": 465,
+    "segs": [ {
+      "utf8": "しゃかりき<space>"
+    } ]
+  }, {
+    "tStartMs": 126440,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "がんばってる"
+    } ]
+  }, {
+    "tStartMs": 127358,
+    "dDurationMs": 1289.49074074073,
+    "segs": [ {
+      "utf8": "の"
+    } ]
+  }, {
+    "tStartMs": 129306.382275132,
+    "dDurationMs": 938,
+    "segs": [ {
+      "utf8": "<br>あなたを想って<space>"
+    } ]
+  }, {
+    "tStartMs": 130245.382275132,
+    "dDurationMs": 892.183862433842,
+    "segs": [ {
+      "utf8": "がんばってる"
+    } ]
+  }, {
+    "tStartMs": 131195.436507937,
+    "dDurationMs": 223.563492063491,
+    "segs": [ {
+      "utf8": "<br>アイ<space>"
+    } ]
+  }, {
+    "tStartMs": 131571.593915344,
+    "dDurationMs": 264.406084656075,
+    "segs": [ {
+      "utf8": "アム<space>"
+    } ]
+  }, {
+    "tStartMs": 131895.650793651,
+    "dDurationMs": 204.349206349201,
+    "segs": [ {
+      "utf8": "く"
+    } ]
+  }, {
+    "tStartMs": 132101,
+    "dDurationMs": 2165,
+    "segs": [ {
+      "utf8": "ろー"
+    } ]
+  }, {
+    "tStartMs": 134267,
+    "dDurationMs": 341,
+    "segs": [ {
+      "utf8": "む"
+    } ]
+  }, {
+    "tStartMs": 134609,
+    "dDurationMs": 740.702380952367,
+    "segs": [ {
+      "utf8": "<br>"
+    } ]
+  }]
+}
